@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Blinkit Clone project! Blinkit Clone is a web application that replicates the core design and functionality of the original Blinkit website. This project was meticulously crafted using HTML and CSS concepts, with a strong emphasis on responsiveness to ensure an optimal user experience across various devices.
+Welcome to the Blinkit Clone project! Blinkit Clone is a web application that replicates the core design and functionality of the original Blinkit website. This project was meticulously crafted using HTML and CSS concepts, with a strong emphasis on responsiveness to ensure an optimal user experience across various devices....
 
 ## Features
 
